@@ -4,9 +4,9 @@ Time series analysis is a statistical method to analyse the past data within a g
 
 # Components of Time-Series
 
-1. TREND: Increasing or decreasing pattern has been observed over a period of time. In this case, the gradually increasing underlying trend is observed. i.e. the count of passengers has increased over a period of time.
+1.TREND: Increasing or decreasing pattern has been observed over a period of time. In this case, the gradually increasing underlying trend is observed. i.e. the count of passengers has increased over a period of time.
 
-### Linear and Non-Linear Trend
+Linear and Non-Linear Trend
 If we plot the time series values on a graph in accordance with time t. The pattern of the data clustering shows the type of trend. If the set of data cluster more or less round a straight line, then the trend is linear otherwise it is non-linear
 
 2 SEASONALITY: Refers to cyclic pattern. A similar pattern that repeats after a certain interval of time. In the airline passenger example, we can observe a cyclic pattern which has a certain high & a low point which is visible in all the interval.
